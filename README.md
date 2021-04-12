@@ -3,7 +3,7 @@
 ### I'm currently a senior in high school at St. Robert CHS finishing my final year in the IB program!
 
 - I'm super interested in tech and I'm hoping to one day be an engineer! 🔧
-- I like making small scripts in my spare time :)
+- I like writing small programs in my spare time :)
 
 #### Connect with me:
 <img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" width="65" height="50" /> boyangfu1991@gmail.com
