@@ -1,6 +1,6 @@
 ### Hi, I'm Yang Xu👋
 
-### I'm currently a senior in high school at St. Robert CHS finishing my final year in the IB program!
+### I'm starting as a freshman at the University of Toronto for engineering science!
 
 - I'm super interested in tech and I'm hoping to one day be an engineer! 🔧
 - I like writing small programs in my spare time :)
