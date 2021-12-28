@@ -6,7 +6,7 @@
 - I like writing small programs in my spare time :)
 
 #### Connect with me:
-<img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" width="65" height="50" /> boyangfu1991@gmail.com
+<img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" width="65" height="50" /> yangxu.toronto@gmail.com
 
 
 <!--
