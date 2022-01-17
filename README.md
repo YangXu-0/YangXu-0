@@ -3,7 +3,7 @@
 ### I'm starting as a freshman at the University of Toronto for engineering science!
 
 - I'm super interested in tech and I'm hoping to one day be an engineer! 🔧
-- I like writing small programs in my spare time :)
+- I like programming in my spare time :)
 
 #### Connect with me:
 <img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" width="65" height="50" /> yangxu.toronto@gmail.com
