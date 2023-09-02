@@ -1,13 +1,12 @@
-### Hi, I'm Yang Xu👋
+Hi!👋 My name is Yang, and I'm a 3rd year Engineering Science student majoring in Robotics Engineering at the University of Toronto. I'm interested in research and development in robotics-related fields, from computational physics to machine learning.
 
-### I'm a second year at the University of Toronto studying engineering science!
+Experienced with:
+• Python, C/C++, SystemVerilog, RISC-V Assembly
+• CAD (Fusion 360), PyTorch, TensorFlow, Robot Operation System (ROS), Microsoft Office Suite
+• Rigid-body dynamics, impact and contact mechanics with friction, numerical optimization, mathematical modelling
 
-- I'm super interested in tech and I'm hoping to one day be an engineer! 🔧
-- I like programming in my spare time :)
-
-#### Connect with me:
-Email: yangxu.toronto@gmail.com
-
+Connect with me:
+Email: yanguoft.xu@mail.utoronto.ca
 
 <!--
 **YangXu-0/YangXu-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
