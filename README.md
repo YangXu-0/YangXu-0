@@ -1,11 +1,11 @@
 Hi!👋 My name is Yang, and I'm a 3rd year Engineering Science student majoring in Robotics Engineering at the University of Toronto. I'm interested in research and development in robotics-related fields, from computational physics to machine learning.
 
-Experienced with:
-• Python, C/C++, SystemVerilog, RISC-V Assembly
-• CAD (Fusion 360), PyTorch, TensorFlow, Robot Operation System (ROS), Microsoft Office Suite
-• Rigid-body dynamics, impact and contact mechanics with friction, numerical optimization, mathematical modelling
+Experienced with: <br />
+• Python, C/C++, SystemVerilog, RISC-V Assembly <br />
+• CAD (Fusion 360), PyTorch, TensorFlow, Robot Operation System (ROS), Microsoft Office Suite <br />
+• Rigid-body dynamics, impact and contact mechanics with friction, numerical optimization, mathematical modelling <br />
 
-Connect with me:
+Connect with me: <br />
 Email: yanguoft.xu@mail.utoronto.ca
 
 <!--
