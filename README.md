@@ -1,4 +1,4 @@
-Hi!👋 My name is Yang, and I'm a 3rd year Engineering Science student majoring in Robotics Engineering at the University of Toronto. I'm interested in research and development in robotics-related fields, from computational physics to machine learning.
+Hi!👋 My name is Yang, and I'm a 4th year Engineering Science student majoring in Robotics Engineering at the University of Toronto. I'm interested in research and development in robotics-related fields, from computational physics to machine learning.
 
 Experienced with: <br />
 • Python, C/C++, SystemVerilog, RISC-V Assembly <br />
